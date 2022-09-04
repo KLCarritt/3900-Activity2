@@ -27,7 +27,7 @@ max-width: 100%;
 
 
  a {
-   color: #6ab47b;
+   color: darkred;
 
  }
 
@@ -138,7 +138,6 @@ PAGE:
 
 
 
-
  /*************************************
 PAGE: ABOUT
 **************************************/
@@ -156,8 +155,8 @@ COLORS
 
  /* green header*/
   header {
-   background: #6ab47b;
-   border-color: #599a68;
+   background: red;
+   border-color: darkred;
  }
 
  /* logo text*/
@@ -181,6 +180,6 @@ nav a.selected, nav a:hover {
 }
 /* site body*/
 body {
-    background-color: #fff;
+    background-color: whitesmoke;
     color: #000;
 }
