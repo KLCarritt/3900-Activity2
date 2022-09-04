@@ -63,7 +63,7 @@ header {
  font-weight: normal;
  line-height: 0.5;
  text-align: center;
- color: 	red;
+ color: darkred;
 
  }
 
@@ -73,6 +73,7 @@ header {
  font-size: 1.00em;
  font-weight: normal;
  margin: -5px 0 0;
+ color: black
  }
 
 
@@ -171,7 +172,7 @@ COLORS
 
 /* nav background on mobile devices*/
 nav {
-   background: #599a6b;
+   background: black;
 }
 
 nav a, nav a:visited {
@@ -180,10 +181,10 @@ nav a, nav a:visited {
 
 /* selected nav link color*/
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: darkred;
 }
 /* site body*/
 body {
-    background-color: whitesmoke;
+    background-color: grey;
     color: #000;
 }
