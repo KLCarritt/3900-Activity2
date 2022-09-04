@@ -160,14 +160,14 @@ COLORS
 
  /* green header*/
   header {
-   background: red;
-   border-color: darkred;
+   background: darkred;
+   border-color: black;
  }
 
  /* logo text*/
 
  h1,h2  {
-    color: red;
+    color: darkred;
 }
 
 /* nav background on mobile devices*/
@@ -185,6 +185,6 @@ nav a.selected, nav a:hover {
 }
 /* site body*/
 body {
-    background-color: grey;
+    background-color: whitesmoke;
     color: #000;
 }
