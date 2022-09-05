@@ -138,10 +138,12 @@ PAGE:
 }
 
 .dog-photo {
+    display: block;
     width:500px;
-    height:450px;
-    margin-left: auto;
-    margin-right: auto;
+    height:550x;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+
 }
 
  /*************************************
